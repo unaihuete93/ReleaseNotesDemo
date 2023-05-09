@@ -9,11 +9,11 @@ changelog:
   categories:
     - title: Breaking Changes 🛠
       labels:
-        - semver-major
+        - Semver-Major
         - breaking-change
     - title: Exciting New Features 🎉
       labels:
-        - semver-minor
+        - Semver-Minor
         - enhancement
     - title: Other Changes
       labels:
